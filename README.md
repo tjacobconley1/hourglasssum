@@ -33,4 +33,4 @@ The highest hourglass sum is  from the hourglass beginning at row 1, column 2:
 
 0 4 3,
   1,
-8 6 6,
+8 6 6, 
